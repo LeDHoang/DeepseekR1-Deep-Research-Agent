@@ -57,3 +57,6 @@ streamlit run streamlit-based.py
 After completing these steps, your environment will be set up and ready for development. Make sure to run all project-related commands within this activated virtual environment.
 
 ---
+Report Sample
+<img width="1511" alt="Screenshot 2025-02-11 at 4 58 48 AM" src="https://github.com/user-attachments/assets/f944d937-e9c8-484b-bd09-8b6879e32b19" />
+
